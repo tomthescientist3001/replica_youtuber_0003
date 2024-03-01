@@ -8,11 +8,16 @@ This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Ch
 
 ### Introduction
 
-I have tried to follow the video turorial but there were some issues, errors and other obstacles that did not allow me to use the same code as his but I tried to somehow come out with the same data results or as similar as possible. I am still learning and special thanks to Alex for his videos.
+I have fedollow the video tutorial, but there were some issues, errors, and other obstacles that did not allow me to use the same code as his. However, I attempted to achieve similar results or as close as possible. I am still learning, and special thanks to Alex for his videos.
 
-The excel files I saved them both as CSV. Then to import them to SQL Server, I right clicked on the database 'PortfolioProject', 'Taks' then 'Iport Data'.
-In the pop window, select as source 'Flat File Source', then brouse for the data files in CSV format. While browsing change format 'text files' for 'CSV'.
-For destination select 'Microsoft OLE DB Provider for SQL Server'
+To import the Excel files into SQL Server, I saved them both as CSV files. Then, I imported them by following these steps:
+
+1. Right-clicked on the database 'PortfolioProject'.
+2. Selected 'Tasks' and then 'Import Data'.
+3. In the pop-up window, selected 'Flat File Source' as the source.
+4. Browsed for the data files in CSV format. While browsing, changed the format from 'text files' to 'CSV'.
+5. For the destination, selected 'Microsoft OLE DB Provider for SQL Server'.
+
 
 ### The SQL Queries
 

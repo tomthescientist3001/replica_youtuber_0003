@@ -11,6 +11,8 @@ This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Ch
 - See original youtuve video [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4](https://youtu.be/qfyynHBFOsM?si=QQxuoH__eQmc3A41)
 - Follow Alex in GitHub [AlexThe Analyst](https://github.com/AlexTheAnalyst)
 
+### The SQL Queries
+
 ```SQL
 -- Selecting all columns from CovidDeaths where continent is not empty and ordering by the 3rd and 4th columns
 SELECT *

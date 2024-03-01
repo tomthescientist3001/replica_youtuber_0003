@@ -10,6 +10,10 @@ This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Ch
 
 I have tried to follow the video turorial but there were some issues, errors and other obstacles that did not allow me to use the same code as his but I tried to somehow come out with the same data results or as similar as possible. I am still learning and special thanks to Alex for his videos.
 
+The excel files I saved them both as CSV. Then to import them to SQL Server, I right clicked on the database 'PortfolioProject', 'Taks' then 'Iport Data'.
+In the pop window, select as source 'Flat File Source', then brouse for the data files in CSV format. While browsing change format 'text files' for 'CSV'.
+For destination select 'Microsoft OLE DB Provider for SQL Server'
+
 ### The SQL Queries
 
 ```SQL

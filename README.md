@@ -1,15 +1,14 @@
-# replica_youtuber_0003
-Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 by Alex The Analyst
-
-### Introduction
-
-I have tried to follow the video turorial but there were some issues, errors and other obstacles that did not allow me to use the same code as his but I tried to somehow come out with the same data results or as similar as possible. I am still learning and special thanks to Alex for his videos.
+# Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 by Alex The Analyst
 
 ### Disclaimer
 
 This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Channel [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/featured)
 - See original youtuve video [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4](https://youtu.be/qfyynHBFOsM?si=QQxuoH__eQmc3A41)
-- Follow Alex in GitHub [AlexThe Analyst](https://github.com/AlexTheAnalyst)
+- Follow Alex in GitHub [AlexTheAnalyst](https://github.com/AlexTheAnalyst)
+
+### Introduction
+
+I have tried to follow the video turorial but there were some issues, errors and other obstacles that did not allow me to use the same code as his but I tried to somehow come out with the same data results or as similar as possible. I am still learning and special thanks to Alex for his videos.
 
 ### The SQL Queries
 

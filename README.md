@@ -5,7 +5,6 @@
 This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Channel [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/featured)
 - See original youtuve video [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4](https://youtu.be/qfyynHBFOsM?si=QQxuoH__eQmc3A41)
 - Follow Alex in GitHub [AlexTheAnalyst](https://github.com/AlexTheAnalyst)
-- Follow Alex in GitHub <a href="https://github.com/AlexTheAnalyst" target="_blank">AlexTheAnalyst.</a>
 
 ### Introduction
 

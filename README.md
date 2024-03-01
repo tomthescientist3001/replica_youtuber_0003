@@ -8,7 +8,7 @@ This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Ch
 
 ### Introduction
 
-I have fedollow the video tutorial, but there were some issues, errors, and other obstacles that did not allow me to use the same code as his. However, I attempted to achieve similar results or as close as possible. I am still learning, and special thanks to Alex for his videos.
+I have followed the video tutorial, but there were some issues, errors, and other obstacles that did not allow me to use the same code as his. However, I attempted to achieve similar results or as close as possible. I am still learning, and special thanks to Alex for his videos.
 
 To import the Excel files into SQL Server, I saved them both as CSV files. Then, I imported them by following these steps:
 

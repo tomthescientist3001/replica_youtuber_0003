@@ -6,7 +6,7 @@ This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Ch
 
 ### Table of Contents
 
-- [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 by Alex The Analyst](#video-001)
+- [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 by Alex The Analyst](#Data-Analyst-Portfolio-Project-|-SQL-Data-Exploration-|-Project-1/4-by-Alex-The-Analyst)
 	- Introduction
 	- The SQL Queries
  	

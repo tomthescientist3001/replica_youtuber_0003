@@ -1,10 +1,24 @@
-# Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 by Alex The Analyst
-
 ### Disclaimer
 
-This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Channel [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/featured)
-- See original youtuve video [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4](https://youtu.be/qfyynHBFOsM?si=QQxuoH__eQmc3A41)
+This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Channel [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/featured).
 - Follow Alex in GitHub [AlexTheAnalyst](https://github.com/AlexTheAnalyst)
+
+
+### Table of Contents
+
+- [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 by Alex The Analyst](#video-001)
+	- Introduction
+	- The SQL Queries
+ 	
+- [Data Analyst Portfolio Project | Tableau Visualization | Project 2/4 by Alex The Analyst](#video-002)
+	- Introduction
+	- The SQL Queries
+	- Data Visualization
+
+---
+
+# Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 by Alex The Analyst
+- See original youtuve video [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4](https://youtu.be/qfyynHBFOsM?si=QQxuoH__eQmc3A41)
 
 ### Introduction
 
@@ -213,13 +227,10 @@ SELECT *
 FROM PercentagePopulationVaccinated;
 ```
 
+---
 # Data Analyst Portfolio Project | Tableau Visualization | Project 2/4 by Alex The Analyst
 
-### Disclaimer
-
-This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Channel [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/featured)
 - See original youtuve video [Data Analyst Portfolio Project | Tableau Visualization | Project 2/4](https://youtu.be/QILNlRvJlfQ?si=4yeXpPiyVlkIjTaj).
-- Follow Alex in GitHub [AlexTheAnalyst](https://github.com/AlexTheAnalyst)
 
 ### Introduction
 

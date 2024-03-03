@@ -12,9 +12,14 @@ This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Ch
 	- The SQL Queries
  	
 - [Data Analyst Portfolio Project | Tableau Visualization | Project 2/4 by Alex The Analyst](#data-analyst-portfolio-project--tableau-visualization--project-24-by-alex-the-analyst)
+
 	- Introduction
 	- The SQL Queries
 	- Data Visualization
+
+- [Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4 by Alex The Analyst](#data-analyst-portfolio-project--data-cleaning-in-sql--project-24-by-alex-the-analyst)
+
+	- Introduction
 
 ---
 
@@ -284,4 +289,16 @@ ORDER BY PercentagePopulationInfected desc;
 ### Data Visualization
 
 Please, see the results in [Tableau](https://public.tableau.com/app/profile/tomthescientist3001/viz/Dashboard001Repository0003/Dashboard1).
+
+
+---
+
+# Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4 by Alex The Analyst
+- See original youtuve video [Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4](https://youtu.be/8rO7ztF4NtU?si=KwfYiSd5jQ8g-b4g)
+
+### Introduction
+
+I have followed the video tutorial, but there were some issues, errors, and other obstacles that did not allow me to use the same code as his. However, I attempted to achieve similar results or as close as possible. I am still learning, and special thanks to Alex for his videos.
+
+To import the Excel files into SQL Server, I saved them both as CSV files. Then, I imported them by following these steps:
 

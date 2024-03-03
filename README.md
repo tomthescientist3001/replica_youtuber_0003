@@ -308,3 +308,10 @@ I have followed the video tutorial, but there were some issues, errors, and othe
 
 To import the Excel files into SQL Server, I saved them both as CSV files. Then, I imported them by following these steps:
 
+cdv utf-8 (comma delimited)
+1. Right-clicked on the database 'PortfolioProject'.
+2. Selected 'Tasks' and then 'Import Data'.
+3. In the pop-up window, selected 'Flat File Source' as the source.
+4. Browsed for the data files in "CSV UTF-8 (comma delimited)" format. While browsing, changed the format from 'text files' to 'CSV'.
+5. For the destination, selected 'Microsoft OLE DB Provider for SQL Server'.
+

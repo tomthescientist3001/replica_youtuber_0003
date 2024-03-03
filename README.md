@@ -17,9 +17,12 @@ This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Ch
 	- The SQL Queries
 	- Data Visualization
 
-- [Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4 by Alex The Analyst](#data-analyst-portfolio-project--data-cleaning-in-sql--project-24-by-alex-the-analyst)
+- [Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4 by Alex The Analyst](#data-analyst-portfolio-project--data-cleaning-in-sql--project-34-by-alex-the-analyst)
 
 	- Introduction
+ 
+ 
+ <br>
 
 ---
 

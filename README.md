@@ -234,8 +234,11 @@ WHERE dea.continent != '';
 SELECT *
 FROM PercentagePopulationVaccinated;
 ```
+  
+<br>
 
 ---
+
 # Data Analyst Portfolio Project | Tableau Visualization | Project 2/4 by Alex The Analyst
 
 - See original youtuve video [Data Analyst Portfolio Project | Tableau Visualization | Project 2/4](https://youtu.be/QILNlRvJlfQ?si=4yeXpPiyVlkIjTaj).
@@ -292,6 +295,8 @@ ORDER BY PercentagePopulationInfected desc;
 
 Please, see the results in [Tableau](https://public.tableau.com/app/profile/tomthescientist3001/viz/Dashboard001Repository0003/Dashboard1).
 
+ 
+<br>
 
 ---
 

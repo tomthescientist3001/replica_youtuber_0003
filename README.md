@@ -20,7 +20,7 @@ This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Ch
 - [Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4 by Alex The Analyst](#data-analyst-portfolio-project--data-cleaning-in-sql--project-34-by-alex-the-analyst)
 
 	- Introduction
-  
+
 <br>
 
 ---
@@ -234,7 +234,7 @@ WHERE dea.continent != '';
 SELECT *
 FROM PercentagePopulationVaccinated;
 ```
-  
+
 <br>
 
 ---
@@ -295,7 +295,6 @@ ORDER BY PercentagePopulationInfected desc;
 
 Please, see the results in [Tableau](https://public.tableau.com/app/profile/tomthescientist3001/viz/Dashboard001Repository0003/Dashboard1).
 
- 
 <br>
 
 ---

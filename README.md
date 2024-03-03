@@ -26,7 +26,7 @@ This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Ch
 ---
 
 # Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 by Alex The Analyst
-- See original youtuve video [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4](https://youtu.be/qfyynHBFOsM?si=QQxuoH__eQmc3A41)
+- See original YouTube video [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4](https://youtu.be/qfyynHBFOsM?si=QQxuoH__eQmc3A41)
 
 ### Introduction
 
@@ -241,7 +241,7 @@ FROM PercentagePopulationVaccinated;
 
 # Data Analyst Portfolio Project | Tableau Visualization | Project 2/4 by Alex The Analyst
 
-- See original youtuve video [Data Analyst Portfolio Project | Tableau Visualization | Project 2/4](https://youtu.be/QILNlRvJlfQ?si=4yeXpPiyVlkIjTaj).
+- See original YouTube video [Data Analyst Portfolio Project | Tableau Visualization | Project 2/4](https://youtu.be/QILNlRvJlfQ?si=4yeXpPiyVlkIjTaj).
 
 ### Introduction
 
@@ -306,12 +306,9 @@ Please, see the results in [Tableau](https://public.tableau.com/app/profile/tomt
 
 I have followed the video tutorial, but there were some issues, errors, and other obstacles that did not allow me to use the same code as his. However, I attempted to achieve similar results or as close as possible. I am still learning, and special thanks to Alex for his videos.
 
-To import the Excel files into SQL Server, I saved them both as CSV files. Then, I imported them by following these steps:
+To import the Excel file file "Nashville Housing Data for Data Cleaning" into SQL Server, I saved it as CSV UTF-8 (comma delimited)". Then, I imported it by following these steps:
 
-cdv utf-8 (comma delimited)
 1. Right-clicked on the database 'PortfolioProject'.
-2. Selected 'Tasks' and then 'Import Data'.
-3. In the pop-up window, selected 'Flat File Source' as the source.
-4. Browsed for the data files in "CSV UTF-8 (comma delimited)" format. While browsing, changed the format from 'text files' to 'CSV'.
-5. For the destination, selected 'Microsoft OLE DB Provider for SQL Server'.
+2. Selected 'Tasks' and then 'Import Flat File'.
+3. Follow the following YouTube video [How to import data from Microsoft Excel into Microsoft SQL Server](https://youtu.be/iGzBgd0qwT4?si=sVhCvETfY2Zpw3My) from the YouTube Channel [SQL Server 101](https://www.youtube.com/@SQLServer101).
 

@@ -506,3 +506,9 @@ matplotlib.rcParams['figure.figsize'] = (12,8) # Adjusts the configuration of th
 
 df = pd.read_csv(r'C:\Users\Tom\Downloads\movies.csv')
 ```
+
+```Python
+# Let's look at data
+
+df.head()
+```

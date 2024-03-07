@@ -509,13 +509,11 @@ df = pd.read_csv(r'C:\Users\Tom\Downloads\movies.csv')
 
 ```Python
 # Let's look at data
-
 df.head()
 ```
 
 ```Python
 # Let's see if there is any missing data
-
 for col in df.columns:
     pct_missing = np.mean(df[col].isnull())
     print('{} - {}%'.format(col, pct_missing))
@@ -523,6 +521,14 @@ for col in df.columns:
 
 ```Python
 # Data types for our columns
-
 df.dtypes
 ```
+
+```Python
+# Change data type of columns
+df['budget'] = pd.to_numeric(df['budget'], errors='coerce').fillna(0).astype(int)
+df['gross'] = pd.to_numeric(df['gross'], errors='coerce').fillna(0).astype(int)
+df['votes'] = pd.to_numeric(df['votes'], errors='coerce').fillna(0).astype(int)
+```
+
+```Python

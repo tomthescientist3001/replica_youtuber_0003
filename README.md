@@ -9,23 +9,23 @@ This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Ch
 - [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 by Alex The Analyst](#data-analyst-portfolio-project--sql-data-exploration--project-14-by-alex-the-analyst)
 
 	- Introduction
-	- The SQL Queries
+	- SQL Queries
  	
 - [Data Analyst Portfolio Project | Tableau Visualization | Project 2/4 by Alex The Analyst](#data-analyst-portfolio-project--tableau-visualization--project-24-by-alex-the-analyst)
 
 	- Introduction
-	- The SQL Queries
+	- SQL Queries
 	- Data Visualization
 
 - [Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4 by Alex The Analyst](#data-analyst-portfolio-project--data-cleaning-in-sql--project-34-by-alex-the-analyst)
 
 	- Introduction
-	- The SQL Queries
+	- SQL Queries
 
 - [Data Analyst Portfolio Project | Correlation in Python | Project 4/4 by Alex The Analyst](#data-analyst-portfolio-project--correlation-in-python--project-44-by-alex-the-analyst)
 
 	- Introduction
-	- The SQL Queries
+	- Python Commands
 
 
 <br>
@@ -48,7 +48,7 @@ To import the Excel files into SQL Server, I saved them both as CSV files. Then,
 5. For the destination, selected 'Microsoft OLE DB Provider for SQL Server'.
 
 
-### The SQL Queries
+### SQL Queries
 
 ```SQL
 -- Selecting all columns from CovidDeaths where continent is not empty and ordering by the 3rd and 4th columns
@@ -256,7 +256,7 @@ I have followed the video tutorial, but there were some issues, errors, and othe
 
 In this second video, four Excel files were made. Please, see attached in this repository.
 
-### The SQL Queries
+### SQL Queries
 
 ```SQL
 -- 1. Global numbers
@@ -319,7 +319,7 @@ To import the Excel file file "Nashville Housing Data for Data Cleaning" into SQ
 2. Selected 'Tasks' and then 'Import Flat File'.
 3. Follow the following YouTube video [How to import data from Microsoft Excel into Microsoft SQL Server](https://youtu.be/iGzBgd0qwT4?si=sVhCvETfY2Zpw3My) from the YouTube Channel [SQL Server 101](https://www.youtube.com/@SQLServer101).
 
-### The SQL Queries
+### SQL Queries
 
 ```SQL
 -- Cleaning data in SQL queries
@@ -479,7 +479,7 @@ DROP COLUMN SaleDate
 
 I have followed the video tutorial, but there were some issues, errors, and other obstacles that did not allow me to use the same code as his. However, I attempted to achieve similar results or as close as possible. I am still learning, and special thanks to Alex for his videos.
 
-### The Python Commands
+### Python Commands
 
 ```Python
 -- Installation of the libraries into python environment.

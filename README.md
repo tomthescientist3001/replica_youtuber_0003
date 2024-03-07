@@ -513,10 +513,16 @@ df = pd.read_csv(r'C:\Users\Tom\Downloads\movies.csv')
 df.head()
 ```
 
+```Python
+# Let's see if there is any missing data
 
-{
-    "cmd": ["start", "cmd", "/k", "c:/python27/python.exe", "-u", "$file"],
-    "selector": "source.python",
-    "shell": true,
-    "working_dir": "$file_dir"
-}
+for col in df.columns:
+    pct_missing = np.mean(df[col].isnull())
+    print('{} - {}%'.format(col, pct_missing))
+```
+
+```Python
+# Data types for our columns
+
+df.dtypes
+```

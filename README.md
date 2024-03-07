@@ -479,12 +479,10 @@ DROP COLUMN SaleDate
 
 I have followed the video tutorial, but there were some issues, errors, and other obstacles that did not allow me to use the same code as his. However, I attempted to achieve similar results or as close as possible. I am still learning, and special thanks to Alex for his videos.
 
-To import the libraries files into SQL Server, I saved them both as CSV files. Then, I imported them by following these steps:
-
 ### The Python Commands
 
-```PYTHON
--- Installation of the libraries into python environmentles. Then, I imported them by following these steps:
+```Python
+-- Installation of the libraries into python environment.
 !pip install pandas
 !pip install seaborn
 !pip install matplotlib

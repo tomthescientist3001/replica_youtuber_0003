@@ -532,3 +532,28 @@ df['votes'] = pd.to_numeric(df['votes'], errors='coerce').fillna(0).astype(int)
 ```
 
 ```Python
+# Create correct year column
+df['yearcorrect'] = df['released'].astype(str).str.split().str[2]
+df
+```
+
+```Python
+df.sort_values(by=['gross'], inplace=False, ascending=False)
+```
+
+```Python
+pd.set_option('display.max_rows', None)
+```
+
+```Python
+# Drop any duplicates
+df['company'].drop_duplicates().sort_values(ascending=False)
+```
+
+```Python
+df
+```
+
+```Python
+
+```

@@ -21,6 +21,13 @@ This is a reproduction inspired by the youtuber Alex Freberg from the YouTube Ch
 
 	- Introduction
 	- The SQL Queries
+
+- [Data Analyst Portfolio Project | Correlation in Python | Project 4/4 by Alex The Analyst](#data-analyst-portfolio-project--correlation-in-python--project-44-by-alex-the-analyst)
+
+	- Introduction
+	- The SQL Queries
+
+
 <br>
 
 ---
@@ -459,4 +466,27 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
 
 ALTER TABLE PortfolioProject.dbo.NashvilleHousing
 DROP COLUMN SaleDate
+```
+
+<br>
+
+---
+
+# Data Analyst Portfolio Project | Correlation in Python | Project 4/4 by Alex The Analyst
+- See original YouTube video [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4](https://youtu.be/iPYVYBtUTyE?si=23ubfGuuQeJgepPZ)
+
+### Introduction
+
+I have followed the video tutorial, but there were some issues, errors, and other obstacles that did not allow me to use the same code as his. However, I attempted to achieve similar results or as close as possible. I am still learning, and special thanks to Alex for his videos.
+
+To import the libraries files into SQL Server, I saved them both as CSV files. Then, I imported them by following these steps:
+
+### The Python Commands
+
+```PYTHON
+-- Installation of the libraries into python environmentles. Then, I imported them by following these steps:
+!pip install pandas
+!pip install seaborn
+!pip install matplotlib
+!pip install numpy
 ```

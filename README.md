@@ -488,3 +488,21 @@ I have followed the video tutorial, but there were some issues, errors, and othe
 !pip install matplotlib
 !pip install numpy
 ```
+
+```Python
+import pandas as pd
+import seaborn as sns
+import numpy as np
+
+import matplotlib
+import matplotlib.pyplot as plt
+plt.style.use('ggplot')
+from matplotlib.pyplot import figure
+
+%matplotlib inline
+matplotlib.rcParams['figure.figsize'] = (12,8) # Adjusts the configuration of the plots we will create
+
+# Read in the data --df = data drame
+
+df = pd.read_csv(r'C:\Users\Tom\Downloads\movies.csv')
+```
